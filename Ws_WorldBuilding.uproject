@@ -1,18 +1,8 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{54F61261-426C-908E-15CB-F2BD74981A39}",
+	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "Ws_WorldBuilding",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
