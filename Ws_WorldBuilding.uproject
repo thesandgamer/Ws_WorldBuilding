@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "{54F61261-426C-908E-15CB-F2BD74981A39}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -16,7 +16,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ElectraPlayer",
+			"Name": "HoudiniEngine",
 			"Enabled": true
 		}
 	]
