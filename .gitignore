@@ -14,3 +14,6 @@ Builds
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Gameplay/1_Items/BP_Item_Log.uasset
+Content/Gameplay/1_Items/BP_Item_Teapot.uasset
+Content/Gameplay/1_Items/Bp_Item_Watermelon.uasset
