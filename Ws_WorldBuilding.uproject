@@ -14,10 +14,6 @@
 		{
 			"Name": "Metasound",
 			"Enabled": true
-		},
-		{
-			"Name": "ElectraPlayer",
-			"Enabled": true
 		}
 	]
 }
